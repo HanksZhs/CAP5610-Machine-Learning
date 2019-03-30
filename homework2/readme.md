@@ -4,3 +4,4 @@ The result (based on test accuracy):
 1. best_and_fast: 88.410%
 2. no_dropout: 88.530%
 3. No Z-score (mean-std) normalized:88.030%
+4. baseline: 74.200%
