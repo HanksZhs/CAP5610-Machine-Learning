@@ -1,0 +1,1 @@
+HW3: https://github.com/schneider128k/machine_learning_course/blob/master/homework/hw3.md
